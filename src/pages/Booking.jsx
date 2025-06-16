@@ -1,0 +1,1 @@
+import React from 'react'; export default function Booking() { return <div>Book an Appointment</div>; }
